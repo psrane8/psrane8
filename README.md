@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psrane8
-- 👀 I’m interested in AR-VR, AI, Full stack Web Development 
+- 👀 I’m interested in AR-VR, AI
 - 🌱 I’m currently learning AR-VR & Machine Learning
 - 📫 How to reach me ?
 email: prathmeshrane0192@gmail.com
